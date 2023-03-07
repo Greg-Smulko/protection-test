@@ -14,3 +14,6 @@ Test 2
 
 
 Resolved conflict (well, not ideally).
+
+
+And here are my manual edits...
